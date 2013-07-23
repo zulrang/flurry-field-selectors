@@ -1,0 +1,22 @@
+{
+    "name": "zulrang/slim-field-selectors",
+    "type": "library",
+    "description": "A field selector middleware for the Slim Framework",
+    "keywords": ["middleware","microframework","rest","router"],
+    "homepage": "http://github.com/zulrang/slim-field-selectors",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roger Collins",
+            "email": "zulrang@gmail.com",
+            "homepage": "http://www.wireframewebsolutions.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "slim/slim": "2.*"
+    },
+    "autoload": {
+        "psr-0": { "Flurry": "." }
+    }
+}
